@@ -3,6 +3,12 @@
 This project contains the files to test the locallaly cloned source code
 of n98-magerun in a ddev docker environment.
 
+Requirements:
+
+A running ddev environment.
+See https://ddev.readthedocs.io/en/stable/
+
+
 ## Setup Dev Environment
 
 ### Setup n98-magerun source code
