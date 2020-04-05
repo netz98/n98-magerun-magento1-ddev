@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## Description: Run n98-magerun dev
+## Usage: mr-dev <command> [options] [args]
+## Example: "mr-dev cache:flush"
+
+php /opt/n98-magerun/bin/n98-magerun --root-dir=/var/www/html $@

@@ -1,0 +1,4 @@
+alias ll="ls -lhA"
+alias mr="n98-magerun.phar"
+alias cd-magento="cd /var/www/html"
+alias cd-vendor="cd /var/www/html/vendor"
